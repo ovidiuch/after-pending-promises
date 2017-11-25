@@ -1,16 +1,16 @@
 {
-  "name": "after-ongoing-promises",
+  "name": "after-pending-promises",
   "version": "0.0.1",
-  "description": "Wait until immediate ongoing promises resolve",
+  "description": "Wait for pending promises to resolve",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/skidding/after-ongoing-promises.git"
+    "url": "git+https://github.com/skidding/after-pending-promises.git"
   },
   "author": "Ovidiu Cherecheș",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/skidding/after-ongoing-promises/issues"
+    "url": "https://github.com/skidding/after-pending-promises/issues"
   },
-  "homepage": "https://github.com/skidding/after-ongoing-promises#readme"
+  "homepage": "https://github.com/skidding/after-pending-promises#readme"
 }
